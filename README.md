@@ -76,6 +76,5 @@ During development:
 
 The project is evolving to incorporate computational technology for narrative analysis of the collected #ai posts. This includes exploring natural language processing (NLP) techniques to understand trends, sentiments, and themes in the data. Work is ongoing to integrate tools like topic modeling or sentiment analysis for deeper insights.
 
-## License
-
-[Add license if applicable]
+## Author
+Hitesh Sharma Allakki
